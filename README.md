@@ -1,5 +1,5 @@
 # Saintcon 2024 Ham Radio Minibadge
 
-This is the repo for the saintcon 2024 ham radio minibadge with instructions on how to flash and set up your badge.
+This is the repo for the saintcon 2024 ham radio minibadge. 
 
-You will need a "UPDI Friend" from 
+[Flashing Instructions](https://www.cleeb.net/blogs/saintcon2024/)
